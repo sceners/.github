@@ -10,6 +10,9 @@ The original packages, archives and preview screen captures are [@ Defacto2 file
 
 You can clone all the repositories on sceners using a Bash-compatible shell with [GitHub's official command line tool](https://cli.github.com/).
 
+> [!NOTE]
+> The collection requires 2.1G
+
 ```sh
 # all the repositories are cloned into the subdirectory named sceners
 cd ~
