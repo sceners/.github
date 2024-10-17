@@ -3,8 +3,8 @@
 Hi, and welcome to **Sceners**, a historical collection of program source codes created by the Scene and curated by *[Defacto2](https://defacto2.net)*.
 
 - [Software tools](https://defacto2.net/files/tool)
-- [Scene Demos](https://defacto2.net/files/demoscene)
-- [Magazines on the Scene](https://defacto2.net/magazine)
+- [Scene Demos](https://defacto2.net/files/demoscene) plus [intros](https://defacto2.net/files/intro)
+- [Magazines](https://defacto2.net/magazine) on the Scene
 
 Contained within are over a 150 source code repositories that commonly target the Intel (x86) PC platform using: 
 
